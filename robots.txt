@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tohgaeshee.menchi.xyz/sitemap.xml
